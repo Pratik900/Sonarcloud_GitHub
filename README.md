@@ -1,3 +1,3 @@
 # Sonartest
 To configure Sonarcloud with GitHub
-test for github and jenkines
+test for github and jenkins
