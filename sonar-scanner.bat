@@ -1,3 +1,0 @@
- -D"sonar.projectKey=Sonarqube-_Integration" 
--D"sonar.sources=." -D"sonar.host.url=http://localhost:9000" 
--D"sonar.login=432e94206098c21c461338478d99d468e8dab34d"
