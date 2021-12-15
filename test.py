@@ -1,5 +1,4 @@
 string1 = "Linux"
 string2 = "s"
 joined_string = string1 + string2
-prints
 print(joined_string)
