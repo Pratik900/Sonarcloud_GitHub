@@ -1,6 +1,7 @@
 print("Hello")
-st
-js=print("Good")
-ds=print("Bye")
-as=js+ds
-print(as)
+print("Hello")
+print("Hello")
+js=10
+ds=20
+s=js+ds
+print(s)
