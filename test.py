@@ -5,5 +5,5 @@ print(joined_string)
 heysskkksaka
 x = "hello"
 
-if not type(x) is int:
+f not type(x) is int:
   raise TypeError("Only integers are allowed")
