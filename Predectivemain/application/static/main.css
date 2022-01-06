@@ -37,7 +37,7 @@
   
 .site-header-logo h1 {
     color: rgb(0, 0, 0);
-    font-family: lobsterregular;
+    font-family: lobsterregular,sans-serif;
     font-size: 3rem;
     margin-top: 2rem;
 }
