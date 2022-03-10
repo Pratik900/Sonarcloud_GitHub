@@ -82,6 +82,8 @@ def index():
     fig4 = px.scatter(df, x='datetime', y='machineID', color='comp',title='Maintenance')
     #fig4.update_traces(mode='markers+lines')
     graph4JSON = json.dumps(fig4, cls=plotly.utils.PlotlyJSONEncoder)
+    
+    dssd
 
 # #graph 5
 #     df = pd.read_csv('D:/Canspirit AI/Data set/PdM_telemetry.csv')
